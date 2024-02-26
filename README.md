@@ -1,6 +1,6 @@
 # ABOUT ME 
 
-Hi there 👋 I'm Debanshu Samantaray, a DevOps Manager by profession. Based in the tech city of Bengaluru, Karnataka,India. 
+Hi there 👋 I'm Debanshu Samantaray, a DevOps Manager by profession and Engineer at Heart.
 
 [![Debanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debanshusam)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshusam)](https://github.com/anuraghazra/github-readme-stats)
 
